@@ -1,6 +1,6 @@
 #include common-troubleunderstanding-note with {
     technology: "React",
-    docsLink: "https://reactjs.org/docs/getting-started.html"
+    docsLink: "https://react.dev/learn"
 }
 
 [note] DevExtreme provides two React UI component libraries: DevExtreme React UI Components described here and <a href="https://github.com/DevExpress/devextreme-reactive/blob/master/README.md" target="_blank">DevExtreme Reactive Components</a>. Refer to <a href="https://community.devexpress.com/blogs/oliver/archive/2018/04/20/devextreme-new-react-wrappers-vs-native-react-components.aspx" target="_blank">this blog post</a> for a detailed comparison of the two libraries.
